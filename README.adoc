@@ -2,7 +2,10 @@
 
 Here is the repo for the metaclub projet from club Cedille.
 
-== Information 
+== Information
 The whole project is made in django with lots of love.
 
 The python version is **3.5**
+
+=== Documentation
+The documentation language is english to be more accessible to a broader audience. The recommended format is asciidoc.
