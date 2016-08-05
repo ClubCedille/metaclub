@@ -9,3 +9,6 @@ The python version is **3.5**
 
 === Documentation
 The documentation language is english to be more accessible to a broader audience. The recommended format is asciidoc.
+
+== Warning
+The docker file in this repo are not design to be run in a production enviroment
