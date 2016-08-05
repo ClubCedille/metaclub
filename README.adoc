@@ -1,0 +1,8 @@
+= MetaClub
+
+Here is the repo for the metaclub projet from club Cedille.
+
+== Information 
+The whole project is made in django with lots of love.
+
+The python version is **3.5**
