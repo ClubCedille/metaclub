@@ -1,6 +1,11 @@
 = MetaClub
-
+Status for master
 image:https://travis-ci.org/ClubCedille/metaclub.svg?branch=master["Build Status", link="https://travis-ci.org/ClubCedille/metaclub"]
+[![Coverage Status](https://coveralls.io/repos/github/ClubCedille/metaclub/badge.svg?branch=master)](https://coveralls.io/github/ClubCedille/metaclub?branch=master)
+
+Status for dev
+image:https://travis-ci.org/ClubCedille/metaclub.svg?branch=dev["Build Status", link="https://travis-ci.org/ClubCedille/metaclub"]
+[![Coverage Status](https://coveralls.io/repos/github/ClubCedille/metaclub/badge.svg?branch=dev)](https://coveralls.io/github/ClubCedille/metaclub?branch=dev)
 
 Here is the repo for the metaclub projet from club Cedille.
 
