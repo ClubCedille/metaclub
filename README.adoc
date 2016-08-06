@@ -1,5 +1,7 @@
 = MetaClub
 
+image:https://travis-ci.org/ClubCedille/metaclub.svg?branch=master["Build Status", link="https://travis-ci.org/ClubCedille/metaclub"]
+
 Here is the repo for the metaclub projet from club Cedille.
 
 == Information
