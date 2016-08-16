@@ -17,8 +17,6 @@ class Member(models.Model):
         max_length=50
     )
 
-    user = models.ForeignKey(User)
-
 
 class Staff(models.Model):
 
