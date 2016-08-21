@@ -8,7 +8,7 @@ Status for dev
 image:https://travis-ci.org/ClubCedille/metaclub.svg?branch=dev["Build Status", link="https://travis-ci.org/ClubCedille/metaclub"]
 
 
-Here is the repo for the metaclub projet from club Cedille.
+Here is the repo for the metaclub project from club Cedille.
 
 == Information
 The whole project is made in django with lots of love.
@@ -19,4 +19,4 @@ The python version is **3.5**
 The documentation language is english to be more accessible to a broader audience. The recommended format is asciidoc.
 
 == Warning
-The docker file in this repo are not design to be run in a production enviroment
+The docker file in this repo are not design to be run in a production environment. They used the internal django web server.
