@@ -1,0 +1,8 @@
+= Deployment
+
+== Warning the docker image is not intended to be deploy. The web server use is only for development.
+
+== Deployment requirement
+* mariaDB
+* GUnicorn
+* Nginx
