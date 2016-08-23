@@ -10,7 +10,7 @@ install:
 
 script:
   - coverage run --omit=*.virtualenvs*,*virtualenv* django/metaclub/manage.py test --settings=metaclub.settings_test member
-  - pep8 --count --show-source --exclude=migrations django/metaclub/
+  - pep8 --count --show-source --exclude=migrations django/metaclub/metaclub/
 
 after_success:
   - coveralls
